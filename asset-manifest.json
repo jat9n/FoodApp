@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.85c13fc5.css",
+    "main.js": "/FoodApp/static/js/main.5ee9cfff.js",
+    "static/js/787.bd02f72e.chunk.js": "/FoodApp/static/js/787.bd02f72e.chunk.js",
+    "static/media/paneerlababdaar.webp": "/FoodApp/static/media/paneerlababdaar.f14c48a21b5f5caf7e81.webp",
+    "static/media/chholemasala.jpg": "/FoodApp/static/media/chholemasala.dc1806c7a706470ac695.jpg",
+    "static/media/mixveg.webp": "/FoodApp/static/media/mixveg.028e51b091f3b7e15dbd.webp",
+    "static/media/dalmakhani.jpg": "/FoodApp/static/media/dalmakhani.45992bc2569590b1a83e.jpg",
+    "static/media/homeimage.jpg": "/FoodApp/static/media/homeimage.901c4e68b7d4f0f0a176.jpg",
+    "static/media/malaikofta.jpg": "/FoodApp/static/media/malaikofta.d1e24950f788637546d6.jpg",
+    "static/media/paneertikka.jpg": "/FoodApp/static/media/paneertikka.7d1f4cdef4e97e3dce22.jpg",
+    "static/media/rajmamasala.jpg": "/FoodApp/static/media/rajmamasala.94bc2f1d8e7917d2b4b7.jpg",
+    "static/media/chillipaneer.webp": "/FoodApp/static/media/chillipaneer.0050429d854472dc7556.webp",
+    "static/media/garlicpaneer.jpg": "/FoodApp/static/media/garlicpaneer.da6de6270ade19ebb43f.jpg",
+    "static/media/paneerbuttermasala.webp": "/FoodApp/static/media/paneerbuttermasala.658de03133d3f488d249.webp",
+    "static/media/paneerpopcorn.webp": "/FoodApp/static/media/paneerpopcorn.84e84bf4542753bbfd14.webp",
+    "static/media/chaap.webp": "/FoodApp/static/media/chaap.1c71ce9bfd9b8d7648d8.webp",
+    "index.html": "/FoodApp/index.html",
+    "main.85c13fc5.css.map": "/FoodApp/static/css/main.85c13fc5.css.map",
+    "main.5ee9cfff.js.map": "/FoodApp/static/js/main.5ee9cfff.js.map",
+    "787.bd02f72e.chunk.js.map": "/FoodApp/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c13fc5.css",
+    "static/js/main.5ee9cfff.js"
+  ]
+}
